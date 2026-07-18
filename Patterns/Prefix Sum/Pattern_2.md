@@ -7,7 +7,7 @@ initialize the map with  {0, 1} - means the  sum of  the  subaaray starting  fro
 
 #### Problems : 
 
-- 560. Subarray Sum Equals K
+- LC560. Subarray Sum Equals K
 
 count all the  subarray with sum  =  k , loop over the  array and  take the sum and  store the sum  in the map as counts 
 if sum - k is there add its freq to the  the  ans. 
@@ -17,6 +17,6 @@ if sum - k is there add its freq to the  the  ans.
 
 #### Problems : 
 
-- 325. Maximum Size Subarray Sum Equals K
+- LC325. Maximum Size Subarray Sum Equals K
 
 
